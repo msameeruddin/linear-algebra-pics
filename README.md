@@ -1,1 +1,1 @@
-# linear-algebra-pics
+Pictures of Linear Algebra Notes
